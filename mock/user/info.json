@@ -1,0 +1,19 @@
+{
+  "info": [
+    {
+      "name": "maoruibin",
+      "age": 20,
+      "hobby": "programming"
+    },
+    {
+      "name": "yangxia",
+      "age": 22,
+      "hobby": "watch TV"
+    },
+    {
+      "name": "yangkun",
+      "age": 18,
+      "hobby": "watch Game"
+    }
+  ]
+}
